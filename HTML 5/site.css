@@ -64,6 +64,7 @@ aside a{
 	color: inherit;
     font-family: "Open Sans Condensed", sans-serif;
     text-decoration: none;
+
 }
 
 blockquote{
@@ -103,3 +104,15 @@ strong {
 em {
     font-style: italic;
 }
+
+
+.icones-redes-sociais li{
+	display: inline-block;
+}
+
+#rodape-pagina{
+    background-color: none;
+    color: #F2FFFC;
+    padding: 20px;
+}
+
